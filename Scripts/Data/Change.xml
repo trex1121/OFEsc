@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+<controls>
+------- Main Controls ----------
+WASD or Arrow keys to move
+--------------------------------
+
+-------- Debug Controls ---------
+Input Q - Manually adds employees to atDesk List
+Input P - Manually add papers to ally employees
+Input M - Manually adds meeting to all employees
+---------------------------------
+</controls>
+<build>
+Build No. 0.6
+----------------------
+</build>
+<change>
+No new changes as of yet.....
+</change>
+</log>

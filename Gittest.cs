@@ -1,10 +1,10 @@
 using UnityEngine;
 using System.Colletions;
 
-class Gittest : MonoBehaviur
+class Gittest : MonoBehaviour
 {
   void Start()
   {
-    print ("GitHub is awesoe");
+    print ("GitHub is awesome");
   }
 }
